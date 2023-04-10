@@ -14,7 +14,7 @@ Repo para mostrar e guardar meu estudo usando Jest
 
 ## 🚀 Rodando localmente
 
-Caso queira utilizar os testes:
+Caso queira utilizar os testes: 
 
 Clone o projeto
 
@@ -32,6 +32,12 @@ Instale as dependências
 
 ```bash
   npm install
+```
+
+Para rodar os testes, utilize: 
+
+```bash
+  npm run test
 ```
 
 ## 📝 Licença
