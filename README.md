@@ -1,6 +1,7 @@
 # 💻 Teste usando Jest
 <p   align = "center">
-   <img alt   = "GitHub repo size" src                                   = "https://img.shields.io/github/repo-size/Aliine98/teste-unitario-jest?color=magenta&style=flat">
+   <a href="https://www.codefactor.io/repository/github/aliine98/teste-unitario-jest"><img src="https://www.codefactor.io/repository/github/aliine98/teste-unitario-jest/badge" alt="CodeFactor" /></a>
+   <img alt   = "GitHub repo size" src= "https://img.shields.io/github/repo-size/Aliine98/teste-unitario-jest?color=magenta&style=flat">
    <a   href  = "https://www.linkedin.com/in/aline-bevilacqua/"><img alt = "Linkedin URL" src = "https://img.shields.io/twitter/url?label=Conecte-se comigo&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faline-bevilacqua%2F"></a>
 </p>
 <br>
